@@ -10,5 +10,6 @@ Steps:
 | 5    | Input already existing event name in Cyrillic   |енрн5ор6нг7ол6      |Website back specific event, that have that name                 |
 
 
-Actual result: Step 3 and 5 do not respond Expected Results, Step 4 Actual Result corresponds Expected Results  
+Actual result: Steps 3 and 5 does not match Expected Results  
+Step 4 Actual Result match Expected Results  
 Status: Fail
